@@ -1,0 +1,15 @@
+/home/leehj819/2022-oop/c#/bin/Debug/net6.0/c#
+/home/leehj819/2022-oop/c#/bin/Debug/net6.0/c#.deps.json
+/home/leehj819/2022-oop/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/leehj819/2022-oop/c#/bin/Debug/net6.0/c#.dll
+/home/leehj819/2022-oop/c#/bin/Debug/net6.0/c#.pdb
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.dll
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/refint/c#.dll
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.pdb
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/home/leehj819/2022-oop/c#/obj/Debug/net6.0/ref/c#.dll

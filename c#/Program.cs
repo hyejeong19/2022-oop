@@ -1,0 +1,20 @@
+﻿Owner king = new Owner("주인", 40);
+Cook cook = new Cook("요리사" ,20, 1234);
+Server serve = new Server("서빙인" , 20, 1234);
+Customer cus1 = new Customer("손님1" , 21,"jeongsik,cider" );
+Customer cus2N3 = new Customer("손님23",30, "teuksik,teuksik,cock,cock");
+
+cus1.order();
+serve.receive_order();
+cook.cook();
+serve.serving();
+cus1.pay();
+serve.give_payment();
+cus2N3.order();
+serve.receive_order();
+cook.cook();
+serve.serving();
+cus2N3.pay();
+serve.give_payment();
+king.give_salary();
+king.showinfo();
